@@ -5,10 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   'Connecting the Clouds - The Internet in New Zealand' is a history of the people, activities and events that contributed to the creation, then growth, of the Internet in New Zealand.
 
   Written by author Keith Newman, the book was commissioned by InternetNZ (the Internet Society of New Zealand Inc) and published by Activity Press.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://www.nethistory.co.nz" # the subpath of your site, e.g. /blog/
 url: "http://nethistory.co.nz" # the base hostname & protocol for your site
 twitter_username: internetnz
-github_username:  
+github_username:
 
 # Build settings
 markdown: kramdown
