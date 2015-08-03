@@ -1,12 +1,9 @@
 ---
 title: Chapter 10 - Diminished Capacity
+layout: default
 permalink: /Chapter_10_-_Diminished_Capacity/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Whose foot is on the hose?
 --------------------------
 

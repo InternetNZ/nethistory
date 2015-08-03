@@ -1,5 +1,6 @@
 ---
 title: Errata
+layout: default
 permalink: /Errata/
 ---
 

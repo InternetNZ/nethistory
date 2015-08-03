@@ -1,12 +1,9 @@
 ---
 title: Chapter 11 - Deluge in a Paper Cup
+layout: default
 permalink: /Chapter_11_-_Deluge_in_a_Paper_Cup/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Knowledge wave wake-up
 ----------------------
 

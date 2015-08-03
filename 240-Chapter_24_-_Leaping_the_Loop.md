@@ -1,12 +1,9 @@
 ---
 title: Chapter 24 - Leaping the Loop
+layout: default
 permalink: /Chapter_24_-_Leaping_the_Loop/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Cloud cover continues
 ---------------------
 

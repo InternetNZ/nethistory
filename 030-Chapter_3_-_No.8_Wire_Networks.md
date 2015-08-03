@@ -1,12 +1,9 @@
 ---
 title: Chapter 3 - No.8 Wire Networks
+layout: default
 permalink: /Chapter_3_-_No.8_Wire_Networks/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Patchwork quilt of protocols
 ----------------------------
 

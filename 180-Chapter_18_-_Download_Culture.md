@@ -1,12 +1,9 @@
 ---
 title: Chapter 18 - Download Culture
+layout: default
 permalink: /Chapter_18_-_Download_Culture/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Infotainment on-demand
 ----------------------
 

@@ -1,12 +1,9 @@
 ---
 title: Chapter 23 - IP Channel Surfing
+layout: default
 permalink: /Chapter_23_-_IP_Channel_Surfing/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Digital vision evolving
 -----------------------
 

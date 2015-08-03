@@ -1,12 +1,9 @@
 ---
 title: Chapter 26 - 20 20 Visionaries
+layout: default
 permalink: /Chapter_26_-_20/20_Visionaries/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Beyond the seven Cs
 -------------------
 

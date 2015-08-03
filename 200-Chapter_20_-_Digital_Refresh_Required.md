@@ -1,12 +1,9 @@
 ---
 title: Chapter 20 - Digital Refresh Required
+layout: default
 permalink: /Chapter_20_-_Digital_Refresh_Required/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Government learns to share
 --------------------------
 

@@ -1,5 +1,6 @@
 ---
 title: Postscript - Holding Back the Tide - Obstacles to Advancement
+layout: default
 permalink: /Postscript_-_Holding_Back_the_Tide_-_Obstacles_to_Advancement/
 ---
 

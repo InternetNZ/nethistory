@@ -1,12 +1,9 @@
 ---
 title: Chapter 8 - The Rhythm Method
+layout: default
 permalink: /Chapter_8_-_The_Rhythm_Method/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Regulation by litigation
 ------------------------
 

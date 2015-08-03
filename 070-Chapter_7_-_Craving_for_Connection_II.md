@@ -1,12 +1,9 @@
 ---
 title: Chapter 7 - Craving for Connection II
+layout: default
 permalink: /Chapter_7_-_Craving_for_Connection_II/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 The pioneering ISPs
 -------------------
 

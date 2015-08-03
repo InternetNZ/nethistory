@@ -1,12 +1,9 @@
 ---
 title: Chapter 17 - Bitstream Boundaries
+layout: default
 permalink: /Chapter_17_-_Bitstream_Boundaries/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Sorting out speed bumps
 -----------------------
 

@@ -1,12 +1,9 @@
 ---
 title: Chapter 25 - Next Step Internet
+layout: default
 permalink: /Chapter_25_-_Next_Step_Internet/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 High fibre diet required
 ------------------------
 

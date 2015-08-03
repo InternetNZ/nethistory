@@ -1,12 +1,9 @@
 ---
 title: Chapter 19 - Mobile Momentum
+layout: default
 permalink: /Chapter_19_-_Mobile_Momentum/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Weaned off the wires
 --------------------
 

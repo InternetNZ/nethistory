@@ -1,20 +1,16 @@
 ---
 title: Chapter 1 - The Tyranny of Distance
+layout: default
 permalink: /Chapter_1_-_The_Tyranny_of_Distance/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
-Reaching out to the world
 -------------------------
 
-> '' Aotearoa, rugged individual glisten like a pearl*
-> *At the bottom of the world*
-> *The tyranny of distance didn't stop the cavalier*
-> *So why should it stop me? I'll conquer and stay free...''
-> Six months in a Leaky Boat, Split Enz
+> "Aotearoa, rugged individual glisten like a pearl
+> At the bottom of the world
+> The tyranny of distance didn't stop the cavalier
+> So why should it stop me? I'll conquer and stay free..."
+> - Six months in a Leaky Boat, Split Enz
 
 We’ve come a long way from flag-waving semaphore and the dot-dash-dot of Samuel Morse’s electronic forerunner of the digital age, and our first glimpse of the device that would cause its users to respond more rapidly to its shrill beckoning than a knock at the door.
 

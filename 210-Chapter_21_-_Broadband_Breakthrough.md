@@ -1,12 +1,9 @@
 ---
 title: Chapter 21 - Broadband Breakthrough
+layout: default
 permalink: /Chapter_21_-_Broadband_Breakthrough/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 The battle to unbundle
 ----------------------
 

@@ -1,12 +1,9 @@
 ---
 title: Chapter 2 - Battling with Big Iron
+layout: default
 permalink: /Chapter_2_-_Battling_with_Big_Iron/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Unscrambling the code
 ---------------------
 

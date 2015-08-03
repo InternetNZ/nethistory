@@ -1,12 +1,9 @@
 ---
 title: Chapter 6 - Craving for Connection
+layout: default
 permalink: /Chapter_6_-_Craving_for_Connection/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Dawn of the dial-up community
 -----------------------------
 

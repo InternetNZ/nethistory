@@ -1,5 +1,6 @@
 ---
 title: Acronyms and Explanations
+layout: default
 permalink: /Acronyms_and_Explanations/
 ---
 

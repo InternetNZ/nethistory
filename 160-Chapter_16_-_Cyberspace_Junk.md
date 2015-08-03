@@ -1,12 +1,9 @@
 ---
 title: Chapter 16 - Cyberspace Junk
+layout: default
 permalink: /Chapter_16_-_Cyberspace_Junk/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Nailing Net Nasties
 -------------------
 

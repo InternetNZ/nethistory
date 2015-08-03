@@ -1,12 +1,9 @@
 ---
 title: Chapter 9 - Local Loop Languishing
+layout: default
 permalink: /Chapter_9_-_Local_Loop_Languishing/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Battling bandwidth blues
 ------------------------
 

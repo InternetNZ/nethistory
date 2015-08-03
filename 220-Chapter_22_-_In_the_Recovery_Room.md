@@ -1,12 +1,9 @@
 ---
 title: Chapter 22 - In the Recovery Room
+layout: default
 permalink: /Chapter_22_-_In_the_Recovery_Room/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Remedial learning required
 --------------------------
 

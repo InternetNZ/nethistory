@@ -1,5 +1,6 @@
 ---
 title: Internet in New Zealand Timeline
+layout: default
 permalink: /Internet_in_New_Zealand_Timeline/
 ---
 

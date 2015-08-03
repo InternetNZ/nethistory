@@ -1,12 +1,9 @@
 ---
 title: Chapter 15 - The Proxy Revolution
+layout: default
 permalink: /Chapter_15_-_The_Proxy_Revolution/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Changing of the guard
 ---------------------
 

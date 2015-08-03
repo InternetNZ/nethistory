@@ -1,12 +1,9 @@
 ---
 title: Chapter 13 - Clicks and Mortar
+layout: default
 permalink: /Chapter_13_-_Clicks_and_Mortar/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 > *Many e-tailers will go broke early next year. They have been using venture capital money or the proceeds from recent share issues to pay for their marketing campaigns. Many Internet investors, therefore will do their dough. Many will become wary of Internet start-ups but others will be stronger because their customer base will have expanded. In a perfect world, therefore, the quality of investments should improve as the winners go from strength to strength.*
 > Alan Deans, New York View, NZ Herald, 26 November 1999.
 

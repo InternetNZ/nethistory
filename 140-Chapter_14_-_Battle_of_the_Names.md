@@ -1,12 +1,9 @@
 ---
 title: Chapter 14 - Battle of the Names
+layout: default
 permalink: /Chapter_14_-_Battle_of_the_Names/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Taming of the domains
 ---------------------
 

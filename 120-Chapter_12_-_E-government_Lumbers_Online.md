@@ -1,12 +1,9 @@
 ---
 title: Chapter 12 - E-government Lumbers Online
+layout: default
 permalink: /Chapter_12_-_E-government_Lumbers_Online/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Presenting a public face
 ------------------------
 

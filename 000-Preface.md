@@ -1,5 +1,6 @@
 ---
 title: Preface
+layout: default
 permalink: /Preface/
 ---
 

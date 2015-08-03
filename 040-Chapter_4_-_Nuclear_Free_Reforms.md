@@ -1,12 +1,9 @@
 ---
 title: Chapter 4 - Nuclear Free Reforms
+layout: default
 permalink: /Chapter_4_-_Nuclear_Free_Reforms/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Nothing is what it seems
 ------------------------
 

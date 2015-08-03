@@ -1,12 +1,9 @@
 ---
 title: Chapter 5 - Selling the Family Jewels
+layout: default
 permalink: /Chapter_5_-_Selling_the_Family_Jewels/
 ---
 
-<div style="float:right; margin-left:1em;">
-__TOC__
-
-</div>
 Telecom holds back the tide
 ---------------------------
 

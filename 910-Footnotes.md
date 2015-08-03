@@ -1,5 +1,6 @@
 ---
 title: Footnotes
+layout: default
 permalink: /Footnotes/
 ---
 
