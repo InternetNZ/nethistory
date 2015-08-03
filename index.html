@@ -4,15 +4,19 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Connecting the Clouds - The Internet in New Zealand</h1>
+
+  <p>'Connecting the Clouds - The Internet in New Zealand' is a history of the people, activities and events that contributed to the creation, then growth, of the Internet in New Zealand.</p>
+
+  <p>Written by author Keith Newman, the book was commissioned by InternetNZ (the Internet Society of New Zealand Inc) and published by Activity Press.</p>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for page in site.pages %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         </h2>
       </li>
     {% endfor %}
